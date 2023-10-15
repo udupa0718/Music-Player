@@ -1,0 +1,3 @@
+const token = "BQA98varzynuiPtXDQXQ47rnl2xs4MiCmVJLjX9klMqKdc8bn3GPCBf90C69bp6Vral7glwPaJ3Ut0-5j01Kyg266lEW84i2pSKeeS8Qec2Pr90r1lL4FXp8s5bxB-kKfWgfpydFxv8jI74d3wv74OSdlxXAyh1yaggQBr_hSxhld043_jytRPa-hZBQKLBNQ2cKnOrWvnXCGssOCbyxhWa5J9ef"
+
+export default token
